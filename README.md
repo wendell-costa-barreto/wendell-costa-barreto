@@ -4,7 +4,7 @@
 
 ## What I'm about 🚀
 
-I'm that dev who gets way too excited about clean code and probably has more browser tabs open than is socially acceptable. Currently vibing in the world of [your main tech stack] and always down to learn something new that'll blow my mind 🤯
+I'm that dev who gets way too excited about clean code and probably has more browser tabs open than is socially acceptable. Currently vibing in the world of [MERN] and always down to learn something new that'll blow my mind 🤯
 
 ```javascript
 const me = {
