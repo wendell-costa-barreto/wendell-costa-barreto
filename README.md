@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Wendell
+# Hey there! I'm Wendell
 
 > *Building cool stuff, breaking things (accidentally), and fixing them again* 🛠️
 
@@ -10,9 +10,7 @@ I'm that dev who gets way too excited about clean code and probably has more bro
 const me = {
   pronouns: "he/him",
   location: "Brazil",
-  currentlyLearning: ["Spring Boot"],
-  askMeAbout: ["That project I'm weirdly passionate about"],
-  funFact: "I debug with console.log and I'm not sorry 🤷‍♀️"
+  currentlyLearning: ["Python"],
 };
 ```
 
@@ -20,7 +18,7 @@ const me = {
 
 **Languages I Actually Know:**
 - JavaScript
-- TypeScript (JavaScript but make it fancy)
+- TypeScript
 - Java
 
 **Frameworks & Tools:**
@@ -30,12 +28,12 @@ const me = {
 - Docker
 
 **Currently Exploring:**
-- Spring Boot
-- AI/ML
+- Software engineering
+- Computer science
 
 ## Projects I'm Actually Proud Of 🎯
 
-### 🌟 Visitez le Québec (on progress) (quebec-beta.vercel.app)
+### 🌟 [Visitez le Québec](https://quebec-yhjt.vercel.app)
 - Built with: [React, TailwindCSS, Vite]
 - What it is: [It's an interactive travel promotion website]
 - Why it's cool: [This project is highly interactive, and dynamic and the biggest site i ever made and it also was refactored by myself after some midnight inspiration]
@@ -50,7 +48,7 @@ const me = {
 I'm always down to chat about code, life, or why tabs vs spaces is still a debate in 2024...
 
 - 💼 LinkedIn: [Wendell Costa](https://linkedin.com/in/wendell-costa-barreto-junior/)  
-- 📧 Email: wendellbarreto2007@gmail.com
+- 📧 Email: wendell.barreto.dev@gmail.com
 - 🌐 Portfolio: [Portfolio](portfolio-git-main-wendell-costas-projects.vercel.app)
 
 ---
